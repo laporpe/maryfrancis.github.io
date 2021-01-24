@@ -2,9 +2,19 @@
 
 Hello World!
 
-### Markdown
+### This page is a work in progress
 
 This page may be used for reasons:
 - Personal 
 - Professional
+
+
+## Portfolio
+
+### Research
+
+### Writing
+
+### Data Science Projects
+
 
