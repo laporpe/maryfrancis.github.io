@@ -9,12 +9,3 @@ This page may be used for reasons:
 - Professional
 
 
-## Portfolio
-
-### Research
-
-### Writing
-
-### Data Science Projects
-
-
